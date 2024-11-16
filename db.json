@@ -1,0 +1,205 @@
+[
+  {
+    "id": 1,
+    "title_kr": "프로젝트 이름 1",
+    "title_en": "Project Name 1",
+    "description": "이 프로젝트는 팀 협업을 통해 사용자 로그인과 실시간 데이터를 시각화하는 웹 애플리케이션입니다.",
+    "skill": ["React", "Team", "Redux"],
+    "features": "사용자 로그인, 데이터 시각화, 실시간 채팅",
+    "contribution": "프론트엔드 UI 개발 및 Redux 상태 관리 구현",
+    "problem_solving": "API 응답 지연 문제 해결을 위해 캐싱 적용",
+    "achievement": "사용자 경험을 개선하고, 로그인 및 채팅 속도를 20% 증가시켰습니다.",
+    "code_analysis": {
+      "problem": "상태 업데이트 시 Redux 액션 지연 문제 발생",
+      "solution": "Redux 미들웨어를 사용하여 비동기 액션 처리 최적화"
+    },
+    "img": "/images/project1.png",
+    "images": [
+      "/images/project1-1.png",
+      "/images/project1-2.png",
+      "/images/project1-3.png",
+      "/images/project1-4.png",
+      "/images/project1-5.png"
+    ],
+    "svg": "/skill/React.svg",
+    "github": "https://github.com/your-repo/project1",
+    "blog": "https://your-blog.com/project1",
+    "notion": "https://notion.so/your-project1",
+    "deployment": "https://your-project1.com",
+    "category": "Team"
+  },
+  {
+    "id": 2,
+    "title_kr": "프로젝트 이름 2",
+    "title_en": "Project Name 2",
+    "description": "데이터 필터링 및 다국어 지원을 제공하는 웹 플랫폼입니다.",
+    "skill": ["JavaScript", "CSS", "Node.js"],
+    "features": "다국어 지원, 데이터 필터링 기능, 관리자 패널",
+    "contribution": "백엔드 API 개발 및 데이터베이스 관리",
+    "problem_solving": "데이터베이스 최적화를 통해 쿼리 성능을 30% 향상시켰습니다.",
+    "achievement": "다국어 지원 및 관리자 패널을 통해 사용자의 만족도를 높였습니다.",
+    "code_analysis": {
+      "problem": "API 호출 시 데이터베이스 응답 지연 발생",
+      "solution": "인덱스 추가 및 쿼리 최적화를 통해 성능 개선"
+    },
+    "img": "/images/project2.png",
+    "images": [
+      "/images/project2-1.png",
+      "/images/project2-2.png",
+      "/images/project2-3.png",
+      "/images/project2-4.png",
+      "/images/project2-5.png"
+    ],
+    "svg": "/skill/NodeJS.svg",
+    "github": "https://github.com/your-repo/project2",
+    "blog": "https://your-blog.com/project2",
+    "notion": "https://notion.so/your-project2",
+    "deployment": "https://your-project2.com",
+    "category": "Team"
+  },
+  {
+    "id": 3,
+    "title_kr": "프로젝트 이름 3",
+    "title_en": "Project Name 3",
+    "description": "Vue.js를 사용하여 실시간 알림과 프로필 관리 기능을 제공하는 프로젝트입니다.",
+    "skill": ["Vue.js", "Vuex", "Firebase"],
+    "features": "실시간 알림, 프로필 관리, 데이터 백업 기능",
+    "contribution": "프론트엔드 컴포넌트 구조 설계 및 Vuex 상태 관리",
+    "problem_solving": "파일 업로드 속도 문제 해결을 위해 지연 로딩을 적용하였습니다.",
+    "achievement": "실시간 알림 및 사용자 프로필 관리 기능 구현을 통해 사용자 경험을 개선하였습니다.",
+    "code_analysis": {
+      "problem": "실시간 알림 처리 시 성능 저하 문제 발생",
+      "solution": "Firebase 실시간 데이터베이스의 구조 최적화로 문제 해결"
+    },
+    "img": "/images/project3.png",
+    "images": [
+      "/images/project3-1.png",
+      "/images/project3-2.png",
+      "/images/project3-3.png",
+      "/images/project3-4.png",
+      "/images/project3-5.png"
+    ],
+    "svg": "/skill/Vue.svg",
+    "github": "https://github.com/your-repo/project3",
+    "blog": "https://your-blog.com/project3",
+    "notion": "https://notion.so/your-project3",
+    "deployment": "https://your-project3.com",
+    "category": "Single"
+  },
+  {
+    "id": 4,
+    "title_kr": "프로젝트 이름 3",
+    "title_en": "Project Name 3",
+    "description": "Vue.js를 사용하여 실시간 알림과 프로필 관리 기능을 제공하는 프로젝트입니다.",
+    "skill": ["Vue.js", "Vuex", "Firebase"],
+    "features": "실시간 알림, 프로필 관리, 데이터 백업 기능",
+    "contribution": "프론트엔드 컴포넌트 구조 설계 및 Vuex 상태 관리",
+    "problem_solving": "파일 업로드 속도 문제 해결을 위해 지연 로딩을 적용하였습니다.",
+    "achievement": "실시간 알림 및 사용자 프로필 관리 기능 구현을 통해 사용자 경험을 개선하였습니다.",
+    "code_analysis": {
+      "problem": "실시간 알림 처리 시 성능 저하 문제 발생",
+      "solution": "Firebase 실시간 데이터베이스의 구조 최적화로 문제 해결"
+    },
+    "img": "/images/project3.png",
+    "images": [
+      "/images/project3-1.png",
+      "/images/project3-2.png",
+      "/images/project3-3.png",
+      "/images/project3-4.png",
+      "/images/project3-5.png"
+    ],
+    "svg": "/skill/Vue.svg",
+    "github": "https://github.com/your-repo/project3",
+    "blog": "https://your-blog.com/project3",
+    "notion": "https://notion.so/your-project3",
+    "deployment": "https://your-project3.com",
+    "category": "Single"
+  },
+  {
+    "id": 5,
+    "title_kr": "프로젝트 이름 3",
+    "title_en": "Project Name 3",
+    "description": "Vue.js를 사용하여 실시간 알림과 프로필 관리 기능을 제공하는 프로젝트입니다.",
+    "skill": ["Vue.js", "Vuex", "Firebase"],
+    "features": "실시간 알림, 프로필 관리, 데이터 백업 기능",
+    "contribution": "프론트엔드 컴포넌트 구조 설계 및 Vuex 상태 관리",
+    "problem_solving": "파일 업로드 속도 문제 해결을 위해 지연 로딩을 적용하였습니다.",
+    "achievement": "실시간 알림 및 사용자 프로필 관리 기능 구현을 통해 사용자 경험을 개선하였습니다.",
+    "code_analysis": {
+      "problem": "실시간 알림 처리 시 성능 저하 문제 발생",
+      "solution": "Firebase 실시간 데이터베이스의 구조 최적화로 문제 해결"
+    },
+    "img": "/images/project3.png",
+    "images": [
+      "/images/project3-1.png",
+      "/images/project3-2.png",
+      "/images/project3-3.png",
+      "/images/project3-4.png",
+      "/images/project3-5.png"
+    ],
+    "svg": "/skill/Vue.svg",
+    "github": "https://github.com/your-repo/project3",
+    "blog": "https://your-blog.com/project3",
+    "notion": "https://notion.so/your-project3",
+    "deployment": "https://your-project3.com",
+    "category": "Single"
+  },
+  {
+    "id": 6,
+    "title_kr": "프로젝트 이름 3",
+    "title_en": "Project Name 3",
+    "description": "Vue.js를 사용하여 실시간 알림과 프로필 관리 기능을 제공하는 프로젝트입니다.",
+    "skill": ["Vue.js", "Vuex", "Firebase"],
+    "features": "실시간 알림, 프로필 관리, 데이터 백업 기능",
+    "contribution": "프론트엔드 컴포넌트 구조 설계 및 Vuex 상태 관리",
+    "problem_solving": "파일 업로드 속도 문제 해결을 위해 지연 로딩을 적용하였습니다.",
+    "achievement": "실시간 알림 및 사용자 프로필 관리 기능 구현을 통해 사용자 경험을 개선하였습니다.",
+    "code_analysis": {
+      "problem": "실시간 알림 처리 시 성능 저하 문제 발생",
+      "solution": "Firebase 실시간 데이터베이스의 구조 최적화로 문제 해결"
+    },
+    "img": "/images/project3.png",
+    "images": [
+      "/images/project3-1.png",
+      "/images/project3-2.png",
+      "/images/project3-3.png",
+      "/images/project3-4.png",
+      "/images/project3-5.png"
+    ],
+    "svg": "/skill/Vue.svg",
+    "github": "https://github.com/your-repo/project3",
+    "blog": "https://your-blog.com/project3",
+    "notion": "https://notion.so/your-project3",
+    "deployment": "https://your-project3.com",
+    "category": "Single"
+  },
+  {
+    "id": 7,
+    "title_kr": "프로젝트 이름 3",
+    "title_en": "Project Name 3",
+    "description": "Vue.js를 사용하여 실시간 알림과 프로필 관리 기능을 제공하는 프로젝트입니다.",
+    "skill": ["Vue.js", "Vuex", "Firebase"],
+    "features": "실시간 알림, 프로필 관리, 데이터 백업 기능",
+    "contribution": "프론트엔드 컴포넌트 구조 설계 및 Vuex 상태 관리",
+    "problem_solving": "파일 업로드 속도 문제 해결을 위해 지연 로딩을 적용하였습니다.",
+    "achievement": "실시간 알림 및 사용자 프로필 관리 기능 구현을 통해 사용자 경험을 개선하였습니다.",
+    "code_analysis": {
+      "problem": "실시간 알림 처리 시 성능 저하 문제 발생",
+      "solution": "Firebase 실시간 데이터베이스의 구조 최적화로 문제 해결"
+    },
+    "img": "/images/project3.png",
+    "images": [
+      "/images/project3-1.png",
+      "/images/project3-2.png",
+      "/images/project3-3.png",
+      "/images/project3-4.png",
+      "/images/project3-5.png"
+    ],
+    "svg": "/skill/Vue.svg",
+    "github": "https://github.com/your-repo/project3",
+    "blog": "https://your-blog.com/project3",
+    "notion": "https://notion.so/your-project3",
+    "deployment": "https://your-project3.com",
+    "category": "Single"
+  }
+]
