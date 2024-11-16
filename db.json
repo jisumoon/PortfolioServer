@@ -5,11 +5,22 @@
       "title_kr": "프로젝트 이름 1",
       "title_en": "Project Name 1",
       "description": "이 프로젝트는 팀 협업을 통해 사용자 로그인과 실시간 데이터를 시각화하는 웹 애플리케이션입니다.",
+      "type": "반응형",
       "skill": ["React", "Team", "Redux"],
       "features": "사용자 로그인, 데이터 시각화, 실시간 채팅",
       "contribution": "프론트엔드 UI 개발 및 Redux 상태 관리 구현",
       "problem_solving": "API 응답 지연 문제 해결을 위해 캐싱 적용",
       "achievement": "사용자 경험을 개선하고, 로그인 및 채팅 속도를 20% 증가시켰습니다.",
+      "key_features": [
+        "실시간 데이터를 기반으로 대시보드 제공",
+        "React와 Redux를 활용한 상태 관리",
+        "사용자 인증 및 로그인 관리 구현"
+      ],
+      "development_outcomes": [
+        "로그인 속도 20% 개선 및 사용자 경험 향상",
+        "프로젝트 완료 후 팀 내 코드 리뷰를 통해 Redux 최적화",
+        "데이터 시각화 UI 완성으로 클라이언트 만족도 상승"
+      ],
       "code_analysis": {
         "problem": "상태 업데이트 시 Redux 액션 지연 문제 발생",
         "solution": "Redux 미들웨어를 사용하여 비동기 액션 처리 최적화"
@@ -25,11 +36,22 @@
       "title_kr": "프로젝트 이름 2",
       "title_en": "Project Name 2",
       "description": "데이터 필터링 및 다국어 지원을 제공하는 웹 플랫폼입니다.",
+      "type": "피씨형",
       "skill": ["JavaScript", "CSS", "Node.js"],
       "features": "다국어 지원, 데이터 필터링 기능, 관리자 패널",
       "contribution": "백엔드 API 개발 및 데이터베이스 관리",
       "problem_solving": "데이터베이스 최적화를 통해 쿼리 성능을 30% 향상시켰습니다.",
       "achievement": "다국어 지원 및 관리자 패널을 통해 사용자의 만족도를 높였습니다.",
+      "key_features": [
+        "다국어 번역 지원 및 동적 언어 변경 기능",
+        "관리자 패널에서 데이터 필터링 및 사용자 관리",
+        "SEO 최적화로 글로벌 트래픽 증가"
+      ],
+      "development_outcomes": [
+        "쿼리 성능을 30% 향상시켜 데이터 처리 속도 개선",
+        "다국어 지원을 통해 20개 이상의 국가에서 사용자 확보",
+        "관리자 패널 구현으로 클라이언트의 유지보수 간소화"
+      ],
       "code_analysis": {
         "problem": "API 호출 시 데이터베이스 응답 지연 발생",
         "solution": "인덱스 추가 및 쿼리 최적화를 통해 성능 개선"
@@ -45,11 +67,22 @@
       "title_kr": "프로젝트 이름 3",
       "title_en": "Project Name 3",
       "description": "Vue.js를 사용하여 실시간 알림과 프로필 관리 기능을 제공하는 프로젝트입니다.",
+      "type": "모바일형",
       "skill": ["Vue.js", "Vuex", "Firebase"],
       "features": "실시간 알림, 프로필 관리, 데이터 백업 기능",
       "contribution": "프론트엔드 컴포넌트 구조 설계 및 Vuex 상태 관리",
       "problem_solving": "파일 업로드 속도 문제 해결을 위해 지연 로딩을 적용하였습니다.",
       "achievement": "실시간 알림 및 사용자 프로필 관리 기능 구현을 통해 사용자 경험을 개선하였습니다.",
+      "key_features": [
+        "Firebase 기반 실시간 알림 시스템 구축",
+        "사용자 프로필 편집 및 데이터 백업 기능",
+        "Vuex로 상태 관리 최적화"
+      ],
+      "development_outcomes": [
+        "알림 처리 속도 40% 개선",
+        "사용자 편의성을 위해 UI 및 UX 최적화",
+        "Firebase 사용으로 데이터 안정성 강화"
+      ],
       "code_analysis": {
         "problem": "실시간 알림 처리 시 성능 저하 문제 발생",
         "solution": "Firebase 실시간 데이터베이스의 구조 최적화로 문제 해결"
@@ -65,11 +98,22 @@
       "title_kr": "프로젝트 이름 4",
       "title_en": "Project Name 4",
       "description": "Python과 Django를 사용하여 사용자 데이터를 분석하고 보고서를 생성하는 웹 애플리케이션입니다.",
+      "type": "반응형",
       "skill": ["Python", "Django", "PostgreSQL"],
       "features": "데이터 분석, 보고서 생성, 사용자 관리",
       "contribution": "백엔드 개발 및 데이터 시각화 API 구축",
       "problem_solving": "대용량 데이터 처리를 위해 캐싱 메커니즘을 도입",
       "achievement": "보고서 생성 시간을 50% 단축하고 사용자 데이터를 효율적으로 관리",
+      "key_features": [
+        "Python 기반 데이터 분석 및 시각화",
+        "사용자별 보고서 자동 생성 기능",
+        "PostgreSQL 데이터베이스 최적화"
+      ],
+      "development_outcomes": [
+        "보고서 생성 시간 50% 단축",
+        "사용자 데이터 관리의 효율성 향상",
+        "Django REST Framework로 API 성능 개선"
+      ],
       "code_analysis": {
         "problem": "데이터베이스 연결 과부하",
         "solution": "비동기 작업 처리와 캐싱을 통한 부하 감소"
@@ -85,11 +129,22 @@
       "title_kr": "프로젝트 이름 5",
       "title_en": "Project Name 5",
       "description": "머신러닝 모델을 활용한 이미지 분류 시스템입니다.",
+      "type": "모바일형",
       "skill": ["Python", "TensorFlow", "Flask"],
       "features": "이미지 업로드, 분류 결과 제공, 모델 학습",
       "contribution": "머신러닝 모델 학습 및 API 설계",
       "problem_solving": "학습 데이터 부족 문제 해결을 위해 데이터 증강 기법 적용",
       "achievement": "이미지 분류 정확도를 90% 이상으로 향상",
+      "key_features": [
+        "TensorFlow 기반 이미지 분류 모델 학습",
+        "Flask로 모델 API 구현",
+        "데이터 증강을 통한 학습 데이터 증가"
+      ],
+      "development_outcomes": [
+        "이미지 분류 정확도를 90% 이상으로 향상",
+        "API 응답 속도 개선 및 클라이언트 신뢰도 상승",
+        "머신러닝 모델 경량화로 실행 속도 개선"
+      ],
       "code_analysis": {
         "problem": "모델 예측 속도가 느림",
         "solution": "모델 경량화 및 GPU 최적화"
@@ -105,11 +160,22 @@
       "title_kr": "프로젝트 이름 6",
       "title_en": "Project Name 6",
       "description": "React Native를 사용하여 iOS 및 Android용 소셜 네트워크 애플리케이션을 개발했습니다.",
+      "type": "반응형",
       "skill": ["React Native", "Firebase", "GraphQL"],
       "features": "게시물 작성, 실시간 알림, 사용자 검색",
       "contribution": "React Native 컴포넌트 개발 및 Firebase 통합",
       "problem_solving": "알림 전송 지연 문제를 WebSocket으로 해결",
       "achievement": "앱 스토어와 구글 플레이 스토어에서 5,000회 이상 다운로드",
+      "key_features": [
+        "React Native 기반 iOS/Android 동시 개발",
+        "실시간 WebSocket 알림 시스템 구축",
+        "사용자 검색 및 필터 기능 제공"
+      ],
+      "development_outcomes": [
+        "앱 다운로드 5,000회 이상 달성",
+        "WebSocket 기반 실시간 알림 기능 개선",
+        "Firebase 통합으로 데이터 안정성 강화"
+      ],
       "code_analysis": {
         "problem": "GraphQL 쿼리 최적화 필요",
         "solution": "쿼리 캐싱 및 서버 간 데이터 전송 최소화"
