@@ -4,7 +4,7 @@
       "id": 1,
       "title_kr": "PRIME 쇼핑몰",
       "title_en": "PRIME",
-      "description": "프라임은 HTML, CSS(SCSS), JavaScript를 활용해 사용자 데이터를 효율적으로 관리하며, 반응형 디자인을 통해 다양한 디바이스에서 실시간 정보를 제공하는 쇼핑몰 웹페이지입니다.",
+      "description": "프라임은 HTML, CSS(SCSS), JavaScript를 활용해 사용자 데이터를 효율적으로 관리하며, 반응형 디자인을 통해 다양한 디바이스에서  정보를 제공하는 쇼핑몰 웹페이지입니다.",
       "type": "반응형",
       "skill": ["HTML", "SCSS", "JavaScript", "Netlify"],
       "feature": ["사용자 로그인 및 인증", "장바구니 및 결제", "주소 관리"],
