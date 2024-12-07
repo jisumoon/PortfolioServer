@@ -4,7 +4,7 @@
       "id": 1,
       "title_kr": "PRIME 쇼핑몰",
       "title_en": "PRIME",
-      "description": "프라임은 기존 쇼핑몰 플랫폼인 Temu의 UX를 대폭 개선하고, HTML, SCSS, JavaScript를 활용해 사용자 데이터를 로컬스토리지로 효율적으로 관리하며 API 연동으로 실시간 데이터를 제공하는 쇼핑몰 웹페이지 입니다",
+      "description": "프라임은 개선된 UX와 웹 기술을 통해 사용자 데이터를 효율적으로 관리하고 실시간 데이터를 제공하는 쇼핑몰 웹페이지입니다.",
       "type": "반응형",
       "skill": ["HTML", "SCSS", "JavaScript", "Netlify"],
       "features": [
