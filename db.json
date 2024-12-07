@@ -2,33 +2,45 @@
   "projects": [
     {
       "id": 1,
-      "title_kr": "프로젝트 이름 1",
-      "title_en": "Project Name 1",
-      "description": "이 프로젝트는 팀 협업을 통해 사용자 로그인과 실시간 데이터를 시각화하는 웹 애플리케이션입니다.",
+      "title_kr": "PRIME 쇼핑몰",
+      "title_en": "PRIME",
+      "description": "프라임은 기존 쇼핑몰 플랫폼인 Temu의 UX를 대폭 개선하고, HTML, SCSS, JavaScript를 활용해 사용자 데이터를 로컬스토리지로 효율적으로 관리하며 API 연동으로 실시간 데이터를 제공하는 쇼핑몰 웹페이지 입니다",
       "type": "반응형",
-      "skill": ["React", "Team", "Redux"],
-      "features": "사용자 로그인, 데이터 시각화, 실시간 채팅",
-      "contribution": "프론트엔드 UI 개발 및 Redux 상태 관리 구현",
-      "problem_solving": "API 응답 지연 문제 해결을 위해 캐싱 적용",
-      "achievement": "사용자 경험을 개선하고, 로그인 및 채팅 속도를 20% 증가시켰습니다.",
+      "skill": ["HTML", "SCSS", "JavaScript", "Netlify"],
+      "features": [
+        "사용자 로그인 및 인증",
+        "데이터 시각화",
+        "장바구니 및 결제",
+        "주소 관리"
+      ],
+      "contribution": "로컬스토리지를 활용한 카트창 구현과 반응형 웹디자인을 포함한 프론트엔드 개발을 담당",
+      "problem_solving": "API 응답 데이터를 로컬스토리지에 저장해 새로고침 시 데이터 손실 문제를 해결하고, 사용자 경험을 개선.",
+      "achievement": "사용자 경험을 개선하고, UI/UX를 직관적이고 간소화하여 쇼핑 편의성을 증대.",
       "key_features": [
-        "실시간 데이터를 기반으로 대시보드 제공",
-        "React와 Redux를 활용한 상태 관리",
-        "사용자 인증 및 로그인 관리 구현"
+        "광고 배너와 사이드 바를 활용해 정보 접근성 강화",
+        "옵션 변경 및 주소 수정 기능을 모달 창으로 구현",
+        "LocalStorage로 데이터 지속성 확보 및 사용자 데이터 유지"
       ],
       "development_outcomes": [
-        "로그인 속도 20% 개선 및 사용자 경험 향상",
-        "프로젝트 완료 후 팀 내 코드 리뷰를 통해 Redux 최적화",
-        "데이터 시각화 UI 완성으로 클라이언트 만족도 상승"
+        "CSS sticky 속성을 활용한 고정 사이드 바로 결제 정보 접근성 향상",
+        "검색 필터와 카테고리 세분화로 정보 탐색 시간 단축",
+        "옵션 변경 및 주소 수정으로 페이지 전환 없이 작업 가능",
+        "최적화된 레이아웃으로 사용자 경험 대폭 향상"
       ],
       "code_analysis": {
-        "problem": "상태 업데이트 시 Redux 액션 지연 문제 발생",
-        "solution": "Redux 미들웨어를 사용하여 비동기 액션 처리 최적화"
+        "problem": "기본 주소 편집 시, `defaultAddress`와 `addressList`의 값이 자동으로 갱신되지 않는 문제 발생",
+        "solution": "편집된 주소가 기본 주소와 동일한 경우, `defaultAddress`를 새 값으로 업데이트하도록 로직 수정"
       },
-      "img": "/images/project1.png",
-      "github": "https://github.com/your-repo/project1",
-      "blog": "https://your-blog.com/project1",
-      "deployment": "https://your-project1.com",
+      "mainImg": "/img/main/PRIMEPOST.png",
+      "img": [
+        "/img/sub/prime/primemain.png",
+        "/img/sub/prime/primelogin.png",
+        "/img/sub/prime/primedetail.png",
+        "/img/sub/prime/primecart.png"
+      ],
+      "github": "https://github.com/jisumoon/PRIME",
+      "blog": "https://www.notion.so/PRIME-15536341b0a780518f1afa10b6565018?pvs=4",
+      "deployment": "https://primejs.netlify.app",
       "category": "Team"
     },
     {
