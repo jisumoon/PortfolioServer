@@ -63,7 +63,13 @@
         "problem": "API 호출 시 데이터베이스 응답 지연 발생",
         "solution": "인덱스 추가 및 쿼리 최적화를 통해 성능 개선"
       },
-      "img": "/images/project2.png",
+      "mainImg": "https://jisumoon.github.io/PortfolioServer/img/main/THREADSPOST.png",
+      "img": [
+        "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primemain.png",
+        "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primelogin.png",
+        "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primedetail.png",
+        "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primecart.png"
+      ],
       "github": "https://github.com/your-repo/project2",
       "blog": "https://your-blog.com/project2",
       "deployment": "https://your-project2.com",
