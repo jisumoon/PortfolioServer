@@ -7,7 +7,7 @@
       "description": "프라임은 개선된 UX와 웹 기술을 통해 사용자 데이터를 효율적으로 관리하고 실시간 데이터를 제공하는 쇼핑몰 웹페이지입니다.",
       "type": "반응형",
       "skill": ["HTML", "SCSS", "JavaScript", "Netlify"],
-      "features": [
+      "feature": [
         "사용자 로그인 및 인증",
         "데이터 시각화",
         "장바구니 및 결제",
@@ -31,12 +31,12 @@
         "problem": "기본 주소 편집 시, `defaultAddress`와 `addressList`의 값이 자동으로 갱신되지 않는 문제 발생",
         "solution": "편집된 주소가 기본 주소와 동일한 경우, `defaultAddress`를 새 값으로 업데이트하도록 로직 수정"
       },
-      "mainImg": "/img/main/PRIMEPOST.png",
+      "mainImg": "img/main/PRIMEPOST.png",
       "img": [
-        "/img/sub/prime/primemain.png",
-        "/img/sub/prime/primelogin.png",
-        "/img/sub/prime/primedetail.png",
-        "/img/sub/prime/primecart.png"
+        "img/sub/prime/primemain.png",
+        "img/sub/prime/primelogin.png",
+        "img/sub/prime/primedetail.png",
+        "img/sub/prime/primecart.png"
       ],
       "github": "https://github.com/jisumoon/PRIME",
       "blog": "https://www.notion.so/PRIME-15536341b0a780518f1afa10b6565018?pvs=4",
