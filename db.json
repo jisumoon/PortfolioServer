@@ -26,7 +26,7 @@
         "problem": "기본 주소 편집 시, `defaultAddress`와 `addressList`의 값이 자동으로 갱신되지 않는 문제 발생",
         "solution": "편집된 주소가 기본 주소와 동일한 경우, `defaultAddress`를 새 값으로 업데이트하도록 로직 수정"
       },
-      "mainImg": "img/main/PRIMEPOST.png",
+      "mainImg": "/PortfolioServer/img/main/PRIMEPOST.png",
       "img": [
         "img/sub/prime/primemain.png",
         "img/sub/prime/primelogin.png",
