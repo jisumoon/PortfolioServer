@@ -40,8 +40,8 @@
     },
     {
       "id": 2,
-      "title_kr": "프로젝트 이름 2",
-      "title_en": "Project Name 2",
+      "title_kr": "THREADS : SNS",
+      "title_en": "THREADS",
       "description": "데이터 필터링 및 다국어 지원을 제공하는 웹 플랫폼입니다.",
       "type": "피씨형",
       "skill": ["JavaScript", "CSS", "Node.js"],
