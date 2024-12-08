@@ -77,7 +77,7 @@
     },
     {
       "id": 3,
-      "title_kr": "프로젝트 이름 3",
+      "title_kr": "VIVAPLAY : 영화 검색 페이지",
       "title_en": "Project Name 3",
       "description": "Vue.js를 사용하여 실시간 알림과 프로필 관리 기능을 제공하는 프로젝트입니다.",
       "type": "모바일형",
@@ -100,7 +100,13 @@
         "problem": "실시간 알림 처리 시 성능 저하 문제 발생",
         "solution": "Firebase 실시간 데이터베이스의 구조 최적화로 문제 해결"
       },
-      "img": "/images/project3.png",
+      "mainImg": "https://jisumoon.github.io/PortfolioServer/img/main/VIVAPLAYPOST.png",
+      "img": [
+        "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primemain.png",
+        "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primelogin.png",
+        "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primedetail.png",
+        "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primecart.png"
+      ],
       "github": "https://github.com/your-repo/project3",
       "blog": "https://your-blog.com/project3",
       "deployment": "https://your-project3.com",
