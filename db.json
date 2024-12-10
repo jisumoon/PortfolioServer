@@ -33,6 +33,7 @@
         "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primedetail.png",
         "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primecart.png"
       ],
+      "screen": "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primeScreen.png",
       "github": "https://github.com/jisumoon/PRIME",
       "blog": "https://www.notion.so/PRIME-15536341b0a780518f1afa10b6565018?pvs=4",
       "deployment": "https://primejs.netlify.app",
