@@ -100,7 +100,7 @@
     },
     {
       "id": 2,
-      "title_kr": "PRIME 쇼핑몰",
+      "title_kr": "THREADS:SNS",
       "title_en": "PRIME",
       "description": "프라임은 HTML, SCSS, JavaScript를 활용해 반응형 디자인을 구현하고, 로컬 스토리지를 통해 데이터를 효율적으로 처리하여 사용자에게 최적화된 쇼핑 경험을 제공하는 웹페이지입니다.",
       "type": "반응형",
@@ -131,7 +131,7 @@
           "improvement": "JSON 파일을 GitHub Repository에 저장하고, 이를 fetch()를 사용해 읽어오는 방식으로 데이터를 초기화하거나 사용자 데이터를 업데이트하도록 구현"
         }
       ],
-      "mainImg": "https://jisumoon.github.io/PortfolioServer/img/main/PRIMEPOST.png",
+      "mainImg": "https://jisumoon.github.io/PortfolioServer/img/main/THREADSPOST.png",
       "img": [
         "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primemain.png",
         "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primelogin.png",
@@ -146,7 +146,7 @@
     },
     {
       "id": 1,
-      "title_kr": "PRIME 쇼핑몰",
+      "title_kr": "운동드림",
       "title_en": "PRIME",
       "description": "프라임은 HTML, SCSS, JavaScript를 활용해 반응형 디자인을 구현하고, 로컬 스토리지를 통해 데이터를 효율적으로 처리하여 사용자에게 최적화된 쇼핑 경험을 제공하는 웹페이지입니다.",
       "type": "반응형",
@@ -177,7 +177,7 @@
           "improvement": "JSON 파일을 GitHub Repository에 저장하고, 이를 fetch()를 사용해 읽어오는 방식으로 데이터를 초기화하거나 사용자 데이터를 업데이트하도록 구현"
         }
       ],
-      "mainImg": "https://jisumoon.github.io/PortfolioServer/img/main/PRIMEPOST.png",
+      "mainImg": "https://jisumoon.github.io/PortfolioServer/img/main/MOTIONPOST.png",
       "img": [
         "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primemain.png",
         "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primelogin.png",
