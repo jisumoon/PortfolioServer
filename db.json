@@ -101,7 +101,7 @@
       "skill": ["TypeScript", "React", "styled-component", "TMDB", "Netlify"],
       "feature": [
         "영화 검색 및 필터링",
-        "즐겨찾기 및 배우 추천",
+        "즐겨찾기",
         "사용자 암호 해시화",
         "반응형 디자인 구현"
       ],
