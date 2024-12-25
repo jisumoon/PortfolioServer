@@ -96,7 +96,7 @@
       "id": 3,
       "title_kr": "VIVAPLAY : 영화소개사이트",
       "title_en": "VIVAPLAY",
-      "description": "VIVAPLAY는 TypeScript와 React를 활용해 TMDB API 데이터를 관리하고, 영화 검색과 배우 추천 기능을 제공하는 웹 페이지입니다",
+      "description": "VIVAPLAY는 TypeScript를 활용해 TMDB API 데이터를 관리하고, 영화 검색과 즐겨찾기 기능능을 제공하는 웹 페이지입니다",
       "type": "반응형",
       "skill": ["TypeScript", "React", "styled-component", "TMDB", "Netlify"],
       "feature": [
@@ -105,8 +105,8 @@
         "사용자 암호 해시화",
         "반응형 디자인 구현"
       ],
-      "contribution": "메인 디자인, TMDB를 활용한 인기 검색어와 검색 페이지, 공통 헤더 및 푸터 컴포넌트 담당",
-      "problem_solving": "TMDB API 데이터를 로컬 스토리지에 저장해 새로고침 시 데이터 손실 문제를 해결하고, 즐겨찾기와 배우 추천 기능으로 사용자 경험을 개선",
+      "contribution": "TMDB를 활용해 인기 검색어 및 검색 페이지를 제작하고, 메인 디자인과 공통 헤더·푸터 컴포넌트를 설계 및 구현",
+      "problem_solving": "TMDB API 데이터를 로컬 스토리지에 저장해 새로고침 시 데이터 손실 문제를 해결하고, 즐겨찾기 기능으로 사용자 경험을 개선",
       "achievement": "TMDB API를 활용한 데이터 관리와 반응형 웹 디자인을 통해 직관적이고 개인화된 영화 검색 및 추천 경험을 제공",
       "key_features": [
         "TypeScript: 코드의 안정성과 유지보수성을 높이고, 명확한 데이터 타입을 정의하여 오류를 최소화",
