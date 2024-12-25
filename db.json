@@ -133,15 +133,16 @@
       ],
       "mainImg": "https://jisumoon.github.io/PortfolioServer/img/main/VIVAPLAYPOST.png",
       "img": [
-        "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primemain.png",
-        "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primelogin.png",
-        "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primedetail.png",
-        "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primecart.png"
+        "https://jisumoon.github.io/PortfolioServer/img/sub/vivaplay/vivaplayMain.png",
+        "https://jisumoon.github.io/PortfolioServer/img/sub/vivaplay/vivaplayLogin.png",
+        "https://jisumoon.github.io/PortfolioServer/img/sub/vivaplay/vivaplayDetail.png",
+        "https://jisumoon.github.io/PortfolioServer/img/sub/vivaplay/vivaplaySearch.png",
+        "https://jisumoon.github.io/PortfolioServer/img/sub/vivaplay/vivaplayLove.png"
       ],
       "screen": "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primeScreen.png",
       "github": "https://github.com/jisumoon/VIVAPLAY",
       "blog": "https://www.notion.so/VIVAPLAY-16536341b0a78009984cf30bcdd3a9ba?pvs=4",
-      "deployment": "https://primejs.netlify.app",
+      "deployment": "https://vivaplayjs.netlify.app/",
       "category": "Team"
     },
     {
