@@ -96,7 +96,7 @@
       "id": 3,
       "title_kr": "VIVAPLAY : 영화소개사이트",
       "title_en": "VIVAPLAY",
-      "description": "VIVAPLAY는 TypeScript를 활용해 TMDB API 데이터를 관리하고, 영화 검색과 즐겨찾기 기능능을 제공하는 웹 페이지입니다",
+      "description": "VIVAPLAY는 TypeScript를 활용해 TMDB API 데이터를 관리하고, 영화 검색과 즐겨찾기 기능을 제공하는 웹 페이지입니다",
       "type": "반응형",
       "skill": ["TypeScript", "React", "styled-component", "TMDB", "Netlify"],
       "feature": [
