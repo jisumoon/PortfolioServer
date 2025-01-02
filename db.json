@@ -84,15 +84,16 @@
       ],
       "mainImg": "https://jisumoon.github.io/PortfolioServer/img/main/THREADSPOST.png",
       "img": [
-        "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primemain.png",
-        "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primelogin.png",
-        "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primedetail.png",
-        "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primecart.png"
+        "https://jisumoon.github.io/PortfolioServer/img/sub/threads/threadsmain.png",
+        "https://jisumoon.github.io/PortfolioServer/img/sub//threads/threadssingu.png",
+        "https://jisumoon.github.io/PortfolioServer/img/sub//threads/threadwrite.png",
+        "https://jisumoon.github.io/PortfolioServer/img/sub//threads/threadssearch.png",
+        "https://jisumoon.github.io/PortfolioServer/img/sub//threads/threadsprofile.png"
       ],
-      "screen": "https://jisumoon.github.io/PortfolioServer/img/sub/prime/primeScreen.png",
+      "screen": "https://jisumoon.github.io/PortfolioServer/img/sub//threads/threadsmain.png",
       "github": "https://github.com/jisumoon/PRIME",
-      "blog": "https://www.notion.so/PRIME-15536341b0a780518f1afa10b6565018?pvs=4",
-      "deployment": "https://primejs.netlify.app",
+      "blog": "https://www.notion.so/THREADS-SNS-13436341b0a780e7a44eec191db51237?pvs=4",
+      "deployment": "",
       "category": "Team"
     },
     {
