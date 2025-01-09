@@ -199,7 +199,7 @@
       "title_kr": "Q&A 다이어리",
       "title_en": "Q&A Diary",
       "description": "Firebase와 TypeScript를 기반으로 개발된 질문 기반 다이어리 서비스로, 실시간 데이터 처리와 사용자 맞춤형 경험을 제공합니다.",
-      "type": "반응형 웹 애플리케이션",
+      "type": "반응형",
       "skill": ["TypeScript", "Firebase", "Styled-components"],
       "feature": [
         "사용자 인증 및 비밀번호 재설정",
