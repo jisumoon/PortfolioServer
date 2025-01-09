@@ -87,13 +87,13 @@
         "https://jisumoon.github.io/PortfolioServer/img/sub/threads/threadsmain.png",
         "https://jisumoon.github.io/PortfolioServer/img/sub//threads/threadssignup.png",
         "https://jisumoon.github.io/PortfolioServer/img/sub//threads/threadswrite.png",
-        "https://jisumoon.github.io/PortfolioServer/img/sub//threads/threadssearch.png",
+        "https://jisumoon.github.io/PortfolioServer/img/sub//threads/threadsserach.png",
         "https://jisumoon.github.io/PortfolioServer/img/sub//threads/threadsprofile.png"
       ],
       "screen": "https://jisumoon.github.io/PortfolioServer/img/sub//threads/threadsmain.png",
-      "github": "https://github.com/jisumoon/PRIME",
+      "github": "https://github.com/jisumoon/THREADS",
       "blog": "https://www.notion.so/THREADS-SNS-13436341b0a780e7a44eec191db51237?pvs=4",
-      "deployment": "",
+      "deployment": "https://threadsjs.netlify.app/",
       "category": "Team"
     },
     {
@@ -196,8 +196,8 @@
     },
     {
       "id": 5,
-      "title_kr": "프로젝트 이름 4",
-      "title_en": "Project Name 4",
+      "title_kr": "Q&A 다이어리",
+      "title_en": "Q&A Diary",
       "description": "Python과 Django를 사용하여 사용자 데이터를 분석하고 보고서를 생성하는 웹 애플리케이션입니다.",
       "type": "반응형",
       "skill": ["Python", "Django", "PostgreSQL"],
@@ -220,15 +220,15 @@
         "solution": "비동기 작업 처리와 캐싱을 통한 부하 감소"
       },
       "img": "/images/project4.png",
-      "github": "https://github.com/your-repo/project4",
-      "blog": "https://your-blog.com/project4",
-      "deployment": "https://your-project4.com",
+      "github": "https://github.com/jisumoon/Q-ADIARY",
+      "blog": "https://www.notion.so/Q-A-17336341b0a780cea1b7e0ab3937a45d?pvs=4",
+      "deployment": "https://677bc6f650301ff76a22026e--qadiaryjs.netlify.app/",
       "category": "Single"
     },
     {
       "id": 6,
-      "title_kr": "프로젝트 이름 5",
-      "title_en": "Project Name 5",
+      "title_kr": "Q&A 다이어리",
+      "title_en": "Q&A Diary",
       "description": "머신러닝 모델을 활용한 이미지 분류 시스템입니다.",
       "type": "모바일형",
       "skill": ["Python", "TensorFlow", "Flask"],
