@@ -202,9 +202,10 @@
       "type": "반응형",
       "skill": ["TypeScript", "Firebase", "Styled-components"],
       "feature": [
-        "사용자 인증 및 비밀번호 재설정",
-        "질문 기반 데이터 필터링",
-        "실시간 데이터 업데이트"
+        "사용자 인증",
+        "비밀번호 재설정",
+        "질문 기반 필터",
+        "실시간 데이터"
       ],
       "contribution": "React 컴포넌트와 Styled-components를 활용해 반응형 UI를 설계. 프로젝트 내 Context를 통해 전역 상태 관리 구현.",
       "problem_solving": "새로고침 및 재로그인 후에도 다이어리 내용을 유지하기 위해 Context를 활용하여 props 전달 문제 해결.",
