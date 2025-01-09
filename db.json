@@ -200,8 +200,8 @@
       "title_en": "Q&A Diary",
       "description": "Firebase와 TypeScript를 기반으로 개발된 질문 기반 다이어리 서비스로, 실시간 데이터 처리와 사용자 맞춤형 경험을 제공합니다.",
       "type": "반응형 웹 애플리케이션",
-      "skills": ["TypeScript", "Firebase", "Styled-components"],
-      "features": [
+      "skill": ["TypeScript", "Firebase", "Styled-components"],
+      "feature": [
         "사용자 인증 및 비밀번호 재설정",
         "질문 기반 데이터 필터링",
         "실시간 데이터 업데이트"
@@ -223,18 +223,22 @@
         "problem": "다수 props로 인해 발생한 상태 관리 문제",
         "solution": "프로젝트 내 Context 활용으로 상태 관리 간소화 및 데이터 유지"
       },
-      "images": {
-        "main": "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarymain.png",
-        "sub": [
-          "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarymain.png",
-          "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarylogin.png",
-          "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarypassword.png",
-          "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarysignup.png",
-          "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarylist.png"
-        ]
-      },
-      "preview_image": "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarymain.png",
-
+      "limitations_and_improvements": [
+        {
+          "technology": "React",
+          "limitation": "다수의 상태를 props로 전달하는 방식에서 코드 복잡도가 증가",
+          "improvement": "Context API를 활용하여 전역 상태를 관리하고 코드 가독성을 개선"
+        }
+      ],
+      "mainImg": "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarymain.png",
+      "img": [
+        "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarymain.png",
+        "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarylogin.png",
+        "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarypassword.png",
+        "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarysignup.png",
+        "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarylist.png"
+      ],
+      "screen": "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarymain.png",
       "github": "https://github.com/jisumoon/Q-ADIARY",
       "blog": "https://www.notion.so/Q-A-17336341b0a780cea1b7e0ab3937a45d?pvs=4",
       "deployment": "https://677bc6f650301ff76a22026e--qadiaryjs.netlify.app/",
