@@ -198,33 +198,50 @@
       "id": 5,
       "title_kr": "Q&A 다이어리",
       "title_en": "Q&A Diary",
-      "description": "Python과 Django를 사용하여 사용자 데이터를 분석하고 보고서를 생성하는 웹 애플리케이션입니다.",
-      "type": "반응형",
-      "skill": ["Python", "Django", "PostgreSQL"],
-      "features": "데이터 분석, 보고서 생성, 사용자 관리",
-      "contribution": "백엔드 개발 및 데이터 시각화 API 구축",
-      "problem_solving": "대용량 데이터 처리를 위해 캐싱 메커니즘을 도입",
-      "achievement": "보고서 생성 시간을 50% 단축하고 사용자 데이터를 효율적으로 관리",
+      "description": "Firebase와 TypeScript를 기반으로 개발된 질문 기반 다이어리 서비스로, 실시간 데이터 처리와 사용자 맞춤형 경험을 제공합니다.",
+      "type": "반응형 웹 애플리케이션",
+      "skills": ["TypeScript", "Firebase", "Styled-components"],
+      "features": [
+        "사용자 인증 및 비밀번호 재설정",
+        "질문 기반 데이터 필터링",
+        "실시간 데이터 업데이트"
+      ],
+      "contribution": "React 컴포넌트와 Styled-components를 활용해 반응형 UI를 설계. 프로젝트 내 Context를 통해 전역 상태 관리 구현.",
+      "problem_solving": "새로고침 및 재로그인 후에도 다이어리 내용을 유지하기 위해 Context를 활용하여 props 전달 문제 해결.",
+      "achievement": "실시간 데이터베이스와 사용자 인증 시스템 구현. 음력 변환 기능과 날짜 기반의 직관적인 캘린더 UI 제공.",
       "key_features": [
-        "Python 기반 데이터 분석 및 시각화",
-        "사용자별 보고서 자동 생성 기능",
-        "PostgreSQL 데이터베이스 최적화"
+        "React 컴포넌트 기반 설계로 UI 재사용성 극대화",
+        "TypeScript를 통한 정적 타입 체크로 코드 안정성 확보",
+        "Lunar.js를 활용한 음력 변환 및 날짜 기반 처리"
       ],
       "development_outcomes": [
-        "보고서 생성 시간 50% 단축",
-        "사용자 데이터 관리의 효율성 향상",
-        "Django REST Framework로 API 성능 개선"
+        "질문 기반 필터링과 음력 지원으로 사용자 맞춤형 경험 제공",
+        "Firebase를 활용한 실시간 데이터 업데이트와 간소화된 인증 시스템 구현",
+        "React와 Styled-components를 통해 확장성과 유지보수성을 갖춘 UI 설계"
       ],
       "code_analysis": {
-        "problem": "데이터베이스 연결 과부하",
-        "solution": "비동기 작업 처리와 캐싱을 통한 부하 감소"
+        "problem": "다수 props로 인해 발생한 상태 관리 문제",
+        "solution": "프로젝트 내 Context 활용으로 상태 관리 간소화 및 데이터 유지"
       },
-      "img": "/images/project4.png",
-      "github": "https://github.com/jisumoon/Q-ADIARY",
-      "blog": "https://www.notion.so/Q-A-17336341b0a780cea1b7e0ab3937a45d?pvs=4",
-      "deployment": "https://677bc6f650301ff76a22026e--qadiaryjs.netlify.app/",
+      "images": {
+        "main": "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarymain.png",
+        "sub": [
+          "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarymain.png",
+          "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarylogin.png",
+          "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarypassword.png",
+          "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarysignup.png",
+          "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarylist.png"
+        ]
+      },
+      "preview_image": "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarymain.png",
+      "links": {
+        "github": "https://github.com/jisumoon/Q-ADIARY",
+        "blog": "https://www.notion.so/Q-A-17336341b0a780cea1b7e0ab3937a45d?pvs=4",
+        "deployment": "https://677bc6f650301ff76a22026e--qadiaryjs.netlify.app/"
+      },
       "category": "Single"
     },
+
     {
       "id": 6,
       "title_kr": "Q&A 다이어리",
