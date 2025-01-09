@@ -234,11 +234,10 @@
         ]
       },
       "preview_image": "https://jisumoon.github.io/PortfolioServer/img/sub/diary/qadiarymain.png",
-      "links": {
-        "github": "https://github.com/jisumoon/Q-ADIARY",
-        "blog": "https://www.notion.so/Q-A-17336341b0a780cea1b7e0ab3937a45d?pvs=4",
-        "deployment": "https://677bc6f650301ff76a22026e--qadiaryjs.netlify.app/"
-      },
+
+      "github": "https://github.com/jisumoon/Q-ADIARY",
+      "blog": "https://www.notion.so/Q-A-17336341b0a780cea1b7e0ab3937a45d?pvs=4",
+      "deployment": "https://677bc6f650301ff76a22026e--qadiaryjs.netlify.app/",
       "category": "Single"
     }
   ]
